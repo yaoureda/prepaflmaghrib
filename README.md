@@ -64,10 +64,22 @@ source venv/bin/activate
 3. Installer les dépendances et lancer l'application :
 ```bash
 pip install -r requirements.txt
-python -m app.app
+python run.py
 ```
 
 > L'application sera lancée sur: **http://localhost:5000**
+
+---
+
+## 🌐 Démo en ligne
+
+Le site est disponible ici : [prepaflmaghrib](https://prepaflmaghrib.onrender.com)
+
+Vous pouvez naviguer entre les pages :
+- Accueil
+- Annales CNC
+- Réussir le CNC
+- Contacts
 
 ---
 
@@ -77,7 +89,6 @@ python -m app.app
 prepaflmaghrib/
 ├── app
 │   ├── __init__.py
-│   ├── app.py
 │   ├── database
 │   │   ├── __init__.py
 │   │   ├── annales
@@ -110,6 +121,7 @@ prepaflmaghrib/
 │       ├── contacts.html
 │       └── reussir.html
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+└── run.py
 ```
 
