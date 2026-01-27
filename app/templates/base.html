@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prepa fl Maghrib</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/base.css') }}">
+    {% block head %}
+    {% endblock %}
+</head>
+<body>
+    <ul class="nav nav-underline nav-fill">
+    <li class="nav-item">
+        <a class="nav-link {% if request.endpoint == 'accueil' %}active{% endif %}" aria-current="page" href="{{ url_for('accueil') }}">Accueil</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link {% if request.endpoint == 'annales' %}active{% endif %}" href="{{ url_for('annales') }}">Annales CNC</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link {% if request.endpoint == 'reussir' %}active{% endif %}" href="{{ url_for('reussir') }}">Réussir le CNC</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link {% if request.endpoint == 'contacts' %}active{% endif %}" href="{{ url_for('contacts') }}">Contacts</a>
+    </li>
+    </ul>
+    {% block body %}
+    {% endblock %}
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+</body>
+</html>

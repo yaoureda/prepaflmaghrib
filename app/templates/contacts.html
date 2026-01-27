@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block head %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/contacts.css') }}">
+{% endblock %}
+
+{% block body %}
+<div class="d-grid gap-2 col-6 mx-auto card card-body text-center myCard d-flex">
+    <h2>Contacts</h2>
+    <p>Tout comme toi ou comme tu aspires à le faire, j'ai passé 2 ans de prépa MP au Lycée Mohammed VI d'Excellence,
+         avant d'intégrer une grande école d'ingénieurs en France (IMT Atlantique). J'ai également été classé dans
+         le top 150 au CNC 2024.</p>
+    <p>Si tu as des questions sur la prépa ou des suggestions pour améliorer ce site, n'hésite pas à me contacter via:</p>
+    <p>Email: <a href="mailto:prepaflmaghrib@proton.me">prepaflmaghrib@proton.me</a></p>
+</div>
+{% endblock %}

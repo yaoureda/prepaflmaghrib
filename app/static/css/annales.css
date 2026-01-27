@@ -1,0 +1,25 @@
+/* Browse layout */
+.results-page {
+  min-height: 70vh;
+}
+
+.sticky-filters {
+  position: sticky;
+  top: 90px;
+  border: 1px solid #e2e8f0;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.filters-form input,
+.filters-form select {
+  border-radius: 10px;
+}
+
+@media (max-width: 991.98px) {
+  .sticky-filters {
+    position: static;
+  }
+}

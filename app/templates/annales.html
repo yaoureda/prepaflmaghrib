@@ -1,0 +1,60 @@
+{% extends "base.html" %}
+
+{% block head %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/annales.css') }}">
+{% endblock %}
+
+{% block body %}
+<div class="container py-4">
+    <div class="row g-4">
+        <aside class="col-lg-3">
+            <div class="card shadow-sm sticky-filters">
+                <div class="card-body">
+                    <h5 class="card-title">Filtres</h5>
+                    <form id="filters-form" class="filters-form">
+
+                        <div class="mb-3">
+                            <label class="form-label">Mots clés:</label>
+                            <input type="text" class="form-control" name="mots" placeholder="ex: Réduction">
+                        </div>
+                        
+                        <div class="mb-3">
+                            <label class="form-label" for="matiere">Matière</label>
+                            <select name="matiere" class="form-select">
+                                {% for matiere in matieres %}
+                                    <option value="{{ matiere.name }}">
+                                        {{ matiere.value }}
+                                    </option>
+                                {% endfor %}
+                            </select>
+                        </div>
+
+                        <div class="mt-3">
+                            <label class="form-label">Ordre par année</label>
+                            {% set order_val = request.args.get('ordre_par_annee', 'desc') %}
+                            <select class="form-select" name="ordre_par_annee">
+                                <option value="desc" {% if order_val == 'desc' %}selected{% endif %}>Descendant</option>
+                                <option value="asc" {% if order_val == 'asc' %}selected{% endif %}>Ascendant</option>
+                            </select>
+                        </div>
+                        <br>
+                        <button type="submit" class="btn btn-success w-100">Rechercher</button>
+                    </form>
+                </div>
+            </div>
+        </aside>
+
+        <section class="col-lg-9">
+            <div class="d-flex justify-content-between align-items-center flex-wrap gap-2 mb-3">
+                <h3 class="mb-0" id="results-count">Résultats</h3>
+                <span class="text-muted d-none" id="no-results">Aucun élément ne correspond à vos filtres.</span>
+                <span class="text-muted small" id="status-text"></span>
+            </div>
+
+            <div id="content" class="row g-3"></div>
+        </section>
+    </div>
+
+</div>
+<script src="{{ url_for('static', filename='js/annales.js') }}" defer></script>
+{% endblock %}

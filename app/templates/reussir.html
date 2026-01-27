@@ -1,0 +1,88 @@
+{% extends "base.html" %}
+
+{% block head %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/reussir.css') }}">
+{% endblock %}
+
+{% block body %}
+<div class="row">
+  <div class="col-4">
+    <div id="simple-list-example" class="d-flex flex-column gap-2 simple-list-example-scrollspy text-center">
+      <a class="p-1 rounded" href="#simple-list-item-1">Général</a>
+      <a class="p-1 rounded" href="#simple-list-item-2">Maths</a>
+      <a class="p-1 rounded" href="#simple-list-item-3">Français</a>
+    </div>
+  </div>
+  <div class="col-8">
+    <div data-bs-spy="scroll" data-bs-target="#simple-list-example" data-bs-offset="0" data-bs-smooth-scroll="true" class="scrollspy-example" tabindex="0">
+
+      <h4 class="item" id="simple-list-item-1">Général</h4>
+      <hr>
+      <p><strong><u>Atteindre son potentiel maximal</u>:</strong><br>
+      Pour mettre votre cerveau dans de bonnes conditions et ainsi maximiser ses chances de réussite, je recommande de:<br>
+      - Dormir 7 heures par nuit.<br>
+      - Faire une activité physique 2 fois par semaine.<br>
+      - Limiter les distractions inutiles telles que les réseaux sociaux et les jeux vidéos.<br><br>
+      <strong><u>Méthodologie de travail</u>:</strong><br>
+      - Lire rapidement la solution est une perte de temps. C'est ça "ne pas être efficace dans son travail".<br>
+      - On pensera à se créer des routines de travail.<br>
+      Exemple: Les jours de la semaine après le diner, je vais à la bibliothèque pour travailler 1 heure.<br>
+      <span style="padding-right: 70px;"></span>Le diamanche je travaille 3 heures le matin et 2 heures après le déjeuner, et le reste de la journée est libre.<br>
+      - Pour les spés: Travailler suffisamment d'annales du concours visé est crucial. On pensera à se mettre dans les conditions de l'examen
+      en travaillant durant les 4 heures du sujet sans interruption.</p><br>
+
+      <h4 class="item" id="simple-list-item-2">Maths</h4>
+      <hr>
+      <p>- Les exercices de la banque CCINP sont intéressants pour vérifier la maitrise du cours en analyse, algèbre, et probabilités. De plus, vous pourriez avoir
+        besoin de travailler celle de votre année pour l'oral de maths du concours. Ci-dessous des banques CCINP sans et avec corrigé.<br>
+      <table class="table table-striped">
+        <thead>
+          <tr>
+            <th scope="col">Année</th>
+            <th scope="col">Sans corrigé</th>
+            <th scope="col">Avec corrigé</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>2025</td>
+            <td><a href="https://www.concours-commun-inp.fr/_resource/annales%20oraux/MP/2025/banque%20finale%20sans%20corr%20session%202025_28-01.pdf" target="_blank">ss-corr-2025</a></td>
+            <td><a href="https://www.concours-commun-inp.fr/_resource/annales%20oraux/MP/2025/banque%20finale%20avec%20corr%20session%202025_28-01.pdf" target="_blank">av-corr-2025</a></td>
+          </tr>
+          <tr>
+            <td>2024</td>
+            <td><a href="https://www.concours-commun-inp.fr/_resource/annales%2520oraux/MP/2024/banque%2520finale%2520sans%2520corr%2520session%25202024.pdf" target="_blank">ss-corr-2024</a></td>
+            <td><a href="https://www.concours-commun-inp.fr/_resource/annales%20oraux/MP/2024/banque%20finale%20avec%20corr%20session%202024.pdf" target="_blank">av-corr-2024</a></td>
+          </tr>
+          <tr>
+            <td>2023</td>
+            <td><a href="https://www.concours-commun-inp.fr/_resource/annales%20oraux/MP/2023/banque%20finale%20sans%20corr%2023%20avril%2023.pdf" target="_blank">ss-corr-2023</a></td>
+            <td><a href="https://www.concours-commun-inp.fr/_resource/annales%2520oraux/MP/2023/banque%2520finale%252023%2520avec%2520corr%2520avril%252023.pdf" target="_blank">av-corr-2023</a></td>
+          </tr>
+        </tbody>
+      </table>
+      - Vous pouvez rechercher les annales du CNC selon les chapitres que vous voulez travailler <a href="{{ url_for('annales') }}">ici</a>.<br>
+      </p><br>
+
+      <h4 class="item" id="simple-list-item-3">Français</h4>
+      <hr>
+      <p>- Lire les oeuvre pendant l'été vous facilitera la matière et vous fera gagner du temps ensuite pour travailler les maths et la physique.<br>
+      - Dans vos dissertations, le correcteur veut voir:
+      <ol>
+        <li>Le respect de la méthodologiede la dissertation.</li>
+        <li>Une grammaire et une orthographe correctes.</li>
+        <li>Beaucoup d'exemples issus des oeuvres.</li>
+      </ol>
+      - Ci-dessous deux pdfs où j'ai listé des informations utiles pour la dissertation:<br><br>
+      <strong>Méthodologie de la dissertation:</strong>
+      <a href="{{ url_for('static', filename='pdf/methodologie.pdf') }}" target="_blank">
+      Télécharger</a><br>
+      <strong>Connecteurs logiques:</strong>
+      <a href="{{ url_for('static', filename='pdf/connecteurs.pdf') }}" target="_blank">
+      Télécharger</a><br>
+      </p>
+    
+    </div>
+  </div>
+</div>
+{% endblock %}

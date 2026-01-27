@@ -1,0 +1,27 @@
+.row {
+    margin-top: 25px;
+}
+
+.p-1 {
+    color: green;
+}
+.p-1:hover {
+    color: darkgreen;
+}
+
+hr {
+    border: none;
+    height: 4px;
+    background: linear-gradient(
+        to right,
+        black,
+        grey,
+        transparent
+    );
+}
+.item {
+    color: darkblue;
+}
+
+
+

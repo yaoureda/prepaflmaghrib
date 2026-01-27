@@ -1,0 +1,33 @@
+.welcome-message {
+    text-align: center;
+    margin-top: 28px;
+    font: 30px Arial, sans-serif;
+}
+
+.arrow {
+    display: inline-block;
+    transition: transform 0.2s ease;
+}
+
+/* Par défaut, flèche pointe à droite (▶) */
+.arrow::before {
+    content: "▶ ";
+}
+
+/* Quand le bouton n'a pas la classe collapsed, flèche pointe vers le bas (▼) */
+button:not(.collapsed) .arrow::before {
+    content: "▼ ";
+}
+
+.btn {
+    background-color: orangered;
+    border: 1px solid orangered;
+}
+.btn:hover {
+    background-color: red;
+    border: 1.5px solid red;
+}
+
+#collapse4 {
+    margin-bottom: 25px;
+}

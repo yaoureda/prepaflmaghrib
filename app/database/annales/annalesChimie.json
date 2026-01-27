@@ -1,0 +1,146 @@
+[
+    {
+        "url": "https://www.cpgemaroc.com/cnc/chmp/e_chmp2000.pdf",
+        "filiere": "MP",
+        "matiere": "CHIMIE",
+        "annee": 2000,
+        "themes": "Structure électronique, Thermochimie, Dosage",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202000%20Chimie%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202001%20Chimie%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "CHIMIE",
+        "annee": 2001,
+        "themes": "Structure électronique, Thermochimie, Oxydoréduction",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202001%20Chimie%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202002%20Chimie%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "CHIMIE",
+        "annee": 2002,
+        "themes": "Structure électronique, Thermochimie, Dosage, Diagramme potentiel-pH",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202002%20Chimie%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202003%20Chimie%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "CHIMIE",
+        "annee": 2003,
+        "themes": "Structure électronique, Cristallographie, Thermochimie, Solubilité, Pile, Électrode",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202003%20Chimie%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202004%20Chimie%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "CHIMIE",
+        "annee": 2004,
+        "themes": "Structure électronique, Cristallographie, Dissolution, Dosage, Cinétique",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202004%20Chimie%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202005%20Chimie%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "CHIMIE",
+        "annee": 2005,
+        "themes": "Structure électronique, Cristallographie, Oxydoréduction, Dosage",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202005%20Chimie%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202006%20Chimie%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "CHIMIE",
+        "annee": 2006,
+        "themes": "Structure électronique, Cristallographie, Oxydoréduction, Thermochimie",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202006%20Chimie%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202007%20Chimie%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "CHIMIE",
+        "annee": 2007,
+        "themes": "Structure électronique, Oxydoréduction, Thermochimie, Cinétique, Équilibre liquide-vapeur",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202007%20Chimie%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202008%20Chimie%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "CHIMIE",
+        "annee": 2008,
+        "themes": "Structure électronique, Cinétique, Dissociation, Dosage acido-basique",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202008%20Chimie%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202011%20Chimie%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "CHIMIE",
+        "annee": 2011,
+        "themes": "Structure électronique, Cristallographie, Précipitation, Oxydoréduction, Thermochimie",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202011%20Chimie%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202013%20Chimie%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "CHIMIE",
+        "annee": 2013,
+        "themes": "Structure électronique, Cristallographie, Oxydoréduction, Diagramme potentiel-pH",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202013%20Chimie%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202014%20Chimie%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "CHIMIE",
+        "annee": 2014,
+        "themes": "Structure électronique, Dissolution, Cristallographie, Thermochimie, Cinétique, Oxydoréduction",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202014%20Chimie%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202017%20Chimie%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "CHIMIE",
+        "annee": 2017,
+        "themes": "Structure électronique, Thermochimie, Dissolution",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202017%20Chimie%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202018%20Chimie%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "CHIMIE",
+        "annee": 2018,
+        "themes": "Structure électronique, Cristallographie, Diagramme potentiel-pH, Oxydoréduction, Réactions acido-basiques, Électrochimie",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202018%20Chimie%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202019%20Chimie%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "CHIMIE",
+        "annee": 2019,
+        "themes": "Thermochimie, Équilibres chimiques, Oxydoréduction, Diagramme potentiel-pH",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202019%20Chimie%20MP%20Correction.pdf"
+    },  
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202020%20Chimie%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "CHIMIE",
+        "annee": 2020,
+        "themes": "Cristallographie, Structure électronique, Oxydoréduction, Diagramme potentiel-pH",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202020%20Chimie%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202021%20Chimie%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "CHIMIE",
+        "annee": 2021,
+        "themes": "Oxydoréduction, Pile, Thermochimie, Cinétique",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202021%20Chimie%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://cpgemaroc.com/cnc/chmp/e_chmp2022.pdf",
+        "filiere": "MP",
+        "matiere": "CHIMIE",
+        "annee": 2022,
+        "themes": "Structure électronique, Cristallographie, Thermochimie, Dosage",
+        "corrige": "https://cpgemaroc.com/cnc/chmp/c2_chmp2022.pdf"
+    }
+]

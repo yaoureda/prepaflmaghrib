@@ -1,0 +1,115 @@
+{% extends "base.html" %}
+
+{% block head %}
+<link rel="stylesheet" href="{{ url_for('static', filename='css/accueil.css') }}">
+{% endblock %}
+
+{% block body %}
+<div class="welcome-message">
+    <p>Tout savoir sur les CPGE MP au Maroc:</p>
+</div>
+
+<!-- 1 -->
+<div class="d-grid gap-2 col-6 mx-auto">
+  <p class="d-inline-flex gap-1"></p>
+  <button class="btn btn-danger collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1" aria-expanded="false" aria-controls="collapse1">
+    <span class="arrow"></span>
+    La prépa MP, c'est quoi ?
+  </button>
+
+  <div class="collapse" id="collapse1">
+    <div class="card card-body">
+      <p>- C'est 2 ans de travail intense, principalement en maths et en physique, visant à préparer des concours précis.<br>
+      <strong><u>Le but</u></strong>: Intégrer une grande école d'ingénieurs au Maroc ou en France.</p>
+    </div>
+  </div>
+</div>
+
+<!-- 2 -->
+<div class="d-grid gap-2 col-6 mx-auto">
+  <p class="d-inline-flex gap-1"></p>
+  <button class="btn btn-danger collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
+    <span class="arrow"></span>
+    Admission
+  </button>
+
+  <div class="collapse" id="collapse2">
+    <div class="card card-body">
+      <p>- L'admission se base sur le score CPGE, lequel dépend majoritairement des notes en maths et en physique à l'examen national. <br>
+      - Ensuite, les notes en français et arabe à l'examen régional et celle d'anglais à l'examen national jouent également un rôle non négligeable.<br>
+      - La candidature se fait via la plateforme e-CPGE. <br>
+      - Pour voir tous les détails sur le calcul du score CPGE et calculer le votre: <a href="https://www.cpge.ac.ma/cand/simulation.aspx" target="_blank">simulation-score</a></p>
+    </div>
+  </div>
+</div>
+
+<!-- 3 -->
+<div class="d-grid gap-2 col-6 mx-auto">
+  <p class="d-inline-flex gap-1"></p>
+  <button class="btn btn-danger collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
+    <span class="arrow"></span>
+    Les concours
+  </button>
+
+  <div class="collapse" id="collapse3">
+    <div class="card card-body">
+      - La prépa, c'est comme un jeu vidéo: en choisissant les concours que tu veux passer, tu choisis la difficulté du jeu.<br>
+      - Voici les principaux concours et leur niveau de difficulté:<br>
+      <p><strong>Le concours marocain:</strong> <a href="https://www.cpge.ac.ma/cpgepages/cont/concoursnational.aspx" target="_blank">CNC</a> <span style="color: green;">(standard)</span><br>
+      <strong>Les concours français:</strong> <a href="https://www.concours-commun-inp.fr/fr/index.html" target="_blank">CCINP</a> <span style="color: green;">(standard)</span>,
+        <a href="https://concoursminesponts.fr/" target="_blank">Mines</a> <span style="color: blue;">(avancé)</span>,
+        <a href="https://www.concours-centrale-supelec.fr/" target="_blank">Centrale</a> <span style="color: blue;">(avancé)</span>,
+        <a href="https://groupe-reussite.fr/ressources/concours-x-ens/" target="_blank">X-ENS</a> <span style="color: red;">(difficile)</span><br>
+      - L'inscription aux concours français se fait via la plateforme <a href="https://www.scei-concours.fr/" target="_blank">SCEI</a>.<br>
+      - On adapte sa préparation en fonction des concours que l'on a choisis. Cliquez <a href="{{ url_for('annales') }}">ici</a> pour rechercher des annales.
+      </p>
+    </div>
+  </div>
+</div>
+
+<!-- 4 -->
+<div class="d-grid gap-2 col-6 mx-auto">
+  <p class="d-inline-flex gap-1"></p>
+  <button class="btn btn-danger collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+    <span class="arrow"></span>
+    Les bourses
+  </button>
+
+  <div class="collapse" id="collapse4">
+    <div class="card card-body">
+      <div class="table-responsive">
+        <table class="table align-middle">
+          <thead>
+            <tr>
+              <th>Bourse</th>
+              <th>Critères</th>
+              <th>Avantages</th>
+              <th>Écoles élligibles</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>De mérite</td>
+              <td>Mérite uniquement</td>
+              <td>Environ 5200 € par ans</td>
+              <td><a href="https://www.cpge.ac.ma/cand/depotbm.aspx" target="_blank">cliquez</a></td>
+            </tr>
+            <tr>
+              <td>BCS</td>
+              <td>Pour les étudiants ayant reçu la bourse de mérite et les mieux classés au sein de leur école dans leur concours respectif</td>
+              <td>Exonération des frais de scolarité, remboursement des frais campus France, repas au crous à 1€, statut de boursier du gouvernement français</td>
+              <td>Les mêmes que celles de la bourse de mérite</td>
+            </tr>
+            <tr>
+              <td>Firsi</td>
+              <td><a href="https://firsi.org/sites/default/files/2024-12/Communiqu%C3%A9%20GEF%202025-%202026%20VF.docx.pdf" target="_blank">Tous les détails ici (2025-2026)</a></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
+
+

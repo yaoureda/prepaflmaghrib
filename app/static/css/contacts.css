@@ -1,0 +1,8 @@
+.myCard {
+    box-shadow: 0 10px 15px 0 grey;
+    border-radius: 10px;
+    min-height: 85vh;
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-start;
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/info/CNC%20Info%202015.pdf",
+        "filiere": "MP",
+        "matiere": "INFORMATIQUE",
+        "annee": 2015,
+        "themes": "SQL, Ingénierie numérique, Piles",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/info/CNC%20Info%202015%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/info/CNC%20Info%202016.pdf",
+        "filiere": "MP",
+        "matiere": "INFORMATIQUE",
+        "annee": 2016,
+        "themes": "Ingénierie numérique, Chaines de caractères, Matplotlib",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/info/CNC%20Info%202016%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/info/CNC%20Info%202017.pdf",
+        "filiere": "MP",
+        "matiere": "INFORMATIQUE",
+        "annee": 2017,
+        "themes": "SQL, Compléxité, Arbres, Dictionnaires, Listes, Matrices, Numpy",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/info/CNC%20Info%202017%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/info/CNC%20Info%202018%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "INFORMATIQUE",
+        "annee": 2018,
+        "themes": "Ingénierie numérique, Codage binaire, Arbres, SQL, Matrices",
+        "corrige": "https://www.elearning-cpge.com/biblio-concours/cnc-2018-mp-info/"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/info/CNC%20Info%202019%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "INFORMATIQUE",
+        "annee": 2019,
+        "themes": "Listes, SQL, Numpy, Matrices, Graphes",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/info/CNC%20Info%202019%20MP%20Correction.pdf"
+    }
+]

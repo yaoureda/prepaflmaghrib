@@ -1,0 +1,346 @@
+[
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202000%20Physique-1%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2000,
+        "themes": "Mécanique du solide, Mécanique du point, Oscillateur harmonique, Machines thermiques, Thermodynamique",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202000%20Physique-1%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202000%20Physique-2%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2000,
+        "themes": "Guide d'ondes électromagnétiques, Effet de peau, Conducteurs, Modes de propagation",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202000%20Physique-2%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202001%20Physique-1%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2001,
+        "themes": "Champ magnétique, Inductance, Moment magnétique, Traitement de signal, Électronique, Amplificateurs",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202001%20Physique-1%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202001%20Physique-2%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2001,
+        "themes": "Hydrostatique, Mécanique des fluides, Thermodynamique, Champ magnétique, Mécanique du point, Optique ondulatoire, Michelson, Interférences, Oscillateur à quartz",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202001%20Physique-2%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202002%20Physique-1%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2002,
+        "themes": "Mécanique gravitationnelle",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202002%20Physique-1%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202002%20Physique-2%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2002,
+        "themes": "Ondes électromagnétiques, Plasma, Champ électrostatique",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202002%20Physique-2%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202003%20Physique-1%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2003,
+        "themes": "Mécanique, Rayonnement d'un corps noir, Optique géométrique, Optique ondulatoire, Michelson, Interférences",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202003%20Physique-1%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202003%20Physique-2%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2003,
+        "themes": "Conduction thermique, Transfert thermique, Optique ondulatoire, Interférences",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202003%20Physique-2%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202004%20Physique-1%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2004,
+        "themes": "Optique géométrique, Diffraction, Champ électrostatique",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202004%20Physique-1%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202004%20Physique-2%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2004,
+        "themes": "Thermodynamique de l'atmosphère, Mécanique des fluides, Mécanique du solide",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202004%20Physique-2%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202005%20Physique-1%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2005,
+        "themes": "Champ magnétique, Oscillateur harmonique",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202005%20Physique-1%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202005%20Physique-2%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2005,
+        "themes": "Rayonnement thermique, Bilan thermique, Traitement de signal",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202005%20Physique-2%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202006%20Physique-1%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2006,
+        "themes": "Thermodynamique, Mécanique, Oscillations",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202006%20Physique-1%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202006%20Physique-2%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2006,
+        "themes": "Réfraction, Interférences, Ondes électromagnétiques",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202006%20Physique-2%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202007%20Physique-1%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2007,
+        "themes": "Conduction électrique, Ondes électromagnétiques",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202007%20Physique-1%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202007%20Physique-2%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2007,
+        "themes": "Fibres optiques, Gyromètre optique, Réfraction, Ondes électromagnétiques",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202007%20Physique-2%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202008%20Physique-1%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2008,
+        "themes": "Transferts thermiques, Analogies thermoélectriques",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202008%20Physique-1%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202008%20Physique-2%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2008,
+        "themes": "Conducteurs, Électromagnétisme, Câble coaxial, Électronique, Amplificateurs, Diode",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202008%20Physique-2%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202009%20Physique-1%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2009,
+        "themes": "Optique géométrique, Optique ondulatoire, Diffraction, Électronique, Amplificateurs",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202009%20Physique-1%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202009%20Physique-2%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2009,
+        "themes": "Mécanique gravitationnelle, Mécanique des fluides, Thermodynamique",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202009%20Physique-2%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202010%20Physique-1%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2010,
+        "themes": "Rayonnement thermique, Transferts thermiques, Effet photovoltaïque",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202010%20Physique-1%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202010%20Physique-2%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2010,
+        "themes": "Conducteurs, Ondes électromagnétiques, Plasma",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202010%20Physique-2%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202011%20Physique-1%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2011,
+        "themes": "Rayonnement électromagnétique, Réflexion des ondes êlectromagnétiques",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202011%20Physique-1%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202011%20Physique-2%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2011,
+        "themes": "Interférences, Michelson, Optique ondulatoire, Optique géométrique",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202011%20Physique-2%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202012%20Physique-1%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2012,
+        "themes": "Électronique analogique, Filtres, Amplificateurs, Ondes électromagnétiques, Interférences",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202012%20Physique-1%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202012%20Physique-2%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2012,
+        "themes": "Induction, Champ magnétique, Machines thermiques",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202012%20Physique-2%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202013%20Physique-1%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2013,
+        "themes": "Guide d'ondes électromagnétiques, Conducteurs, Interférences, Optique géométrique, Optique ondulatoire",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202013%20Physique-1%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202015%20Physique-1%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2015,
+        "themes": "Thermodynamique, Machines thermiques, Mécanique du solide, Effet Doppler",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202015%20Physique-1%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202015%20Physique-2%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2015,
+        "themes": "Effet tunnel, Mécanique quantique, Électronique, Amplificateurs",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202015%20Physique-2%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202016%20Physique-1%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2016,
+        "themes": "Rayonnement électromagnétique, Mécanique gravitationnelle, Rayonnements thermiques, Conduction thermique, Thermodynamique",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202016%20Physique-1%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202016%20Physique-2%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2016,
+        "themes": "Ondes électromagnétiques, Plasma, Traitement de signal, Optique ondulatoire, Interférences, Force de Laplace, Thermodynamique, Changement d'état",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202016%20Physique-2%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202017%20Physique-1%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2017,
+        "themes": "Ondes, Électromagnétisme, Rayonnement d'un corps noir, Effet photoélectrique, Mécanique quantique",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202017%20Physique-1%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202017%20Physique-2%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2017,
+        "themes": "Thermodynamique, Machines thermiques, Nucléaire, Mécanique non galiléenne, Réacteurs, Écoulement, Champ magnétique",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202017%20Physique-2%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202018%20Physique-1%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2018,
+        "themes": "Conducteurs, Électromagnétisme, Transferts thermiques, Rayonnement",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202018%20Physique-1%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202018%20Physique-2%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2018,
+        "themes": "Rayons X, Rayonnement thermique, Électromagnétisme, Mécanique",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202018%20Physique-2%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202019%20Physique-1%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2019,
+        "themes": "Mécanique gravitationnelle, Optique géométrique, Rayonnement thermique",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202019%20Physique-1%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202019%20Physique-2%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2019,
+        "themes": "Interférences de deux ondes, Fentes de Young, Interférences atomiques, Mécanique quantique",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202019%20Physique-2%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202020%20Physique%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2020,
+        "themes": "Mécanique du point, Pendules, Oscillateurs, Électromagnétisme",
+        "corrige": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202020%20Physique%20MP%20Correction.pdf"
+    },
+    {
+        "url": "https://rtc.ma/pdfs/MP/cnc/pc/CNC%202021%20Physique-2%20MP.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2021,
+        "themes": "Mécanique quantique, Thermodynamique, Entropie, Machines thermiques, Écoulement",
+        "corrige": "https://cpgemaroc.com/cnc/ph2mp/c_ph2mp2021.pdf"
+    },
+    {
+        "url": "https://cpgemaroc.com/cnc/ph1mp/e_ph1mp2022.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2022,
+        "themes": "Thermodynamique, Mécanique, Michelson, Ondes, Interférences, Électronique",
+        "corrige": "https://cpgemaroc.com/cnc/ph1mp/c2_ph1mp2022.pdf"
+    },
+    {
+        "url": "https://cpgemaroc.com/cnc/ph2mp/e_ph2mp2022.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2022,
+        "themes": "Champ magnétique, Radioactivité, Mécanique quantique",
+        "corrige": "https://cpgemaroc.com/cnc/ph2mp/c2_ph2mp2022.pdf"
+    },
+    {
+        "url": "https://cpgemaroc.com/cnc/ph2mp/e_ph2mp2023.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2023,
+        "themes": "Thermodynamique, Oscillateur harmonique, Mécanique quantique",
+        "corrige": "https://cpgemaroc.com/cnc/ph2mp/c2_ph2mp2023.pdf"
+    },
+    {
+        "url": "https://cpgemaroc.com/cnc/ph2mp/e_ph2mp2024.pdf",
+        "filiere": "MP",
+        "matiere": "PHYSIQUE",
+        "annee": 2024,
+        "themes": "Semi-conducteurs, Ondes, Mécanique quantique",
+        "corrige": "https://cpgemaroc.com/cnc/ph2mp/c_ph2mp2024.pdf"
+    }
+]
