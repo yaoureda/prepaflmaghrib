@@ -4,6 +4,13 @@
     font: 30px Arial, sans-serif;
 }
 
+@media (max-width: 768px) {
+    .welcome-message {
+        font-size: 20px;
+        margin-top: 15px;
+    }
+}
+
 .arrow {
     display: inline-block;
     transition: transform 0.2s ease;
@@ -26,6 +33,14 @@ button:not(.collapsed) .arrow::before {
 .btn:hover {
     background-color: red;
     border: 1.5px solid red;
+}
+
+@media (max-width: 768px) {
+    .d-grid {
+        width: 98%;
+        margin-bottom: 10px;
+        font-size: 16px;
+    }
 }
 
 #collapse4 {

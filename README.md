@@ -83,7 +83,7 @@ Vous pouvez naviguer entre les pages :
 
 ---
 
-## 🔮 Améliorations possibles
+## 🧾 Améliorations possibles
 
 - Traduction de la plateforme en arabe.
 - Ajout des annales d'autres filières que la MP.

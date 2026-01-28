@@ -1,7 +1,7 @@
 body {
     background-image: url("../images/background.jpeg");
-    background-size: cover;      /* makes the image cover the screen */
-    background-position: center; /* centers the image */
+    background-size: cover;     
+    background-position: center; 
     background-repeat: no-repeat;
 }
 
@@ -22,4 +22,20 @@ body {
     color: darkred;
     border-bottom-color: darkred;
     box-shadow: none;
+}
+
+@media (max-width: 380px) {
+  .nav-underline .nav-link {
+    font-size: 13px;
+    padding: 0.25rem 0.3rem;
+    white-space: nowrap;
+  }
+}
+
+@media (max-width: 350px) {
+  .nav-underline .nav-link {
+    font-size: 12px;
+    padding: 0.2rem 0.25rem;
+    white-space: nowrap;
+  }
 }

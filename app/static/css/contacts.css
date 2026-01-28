@@ -6,3 +6,11 @@
     display: flex;
     justify-content: flex-start;
 }
+
+@media (max-width: 768px) {
+    .myCard {
+        min-height: auto;
+        padding: 10px;
+        width: 95%;
+    }
+}
