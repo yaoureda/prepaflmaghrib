@@ -83,6 +83,14 @@ Vous pouvez naviguer entre les pages :
 
 ---
 
+## 🔮 Améliorations possibles
+
+- Traduction de la plateforme en arabe.
+- Ajout des annales d'autres filières que la MP.
+- Étayer plus la page "Réussir le CNC".
+
+---
+
 ## 📁 Structure du projet
 
 ```
