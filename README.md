@@ -81,6 +81,8 @@ Vous pouvez naviguer entre les pages :
 - Réussir le CNC
 - Contacts
 
+⚠️ Le site est hébergé sur Render (free tier) : il peut mettre jusqu’à 1 minute à démarrer après une période d’inactivité.
+
 ---
 
 ## 🧾 Améliorations possibles
