@@ -24,6 +24,13 @@ des ressources utiles pour mieux se préparer aux concours.
 
 ---
 
+## Interface
+<p align="center">
+  <img src="./assets/interface.png" height="200" style="object-fit: contain;">
+</p>
+
+---
+
 ## 🛠️ Technologies utilisées
 
 - Backend : Python avec le framework Flask
